@@ -1,42 +1,44 @@
-# 👋 Hi, I'm Aditya Swain
+# 👋 Hi, I'm Aditya Prasad Swain
 
-### 🚀 Java Full-Stack Developer | JAVA | APIs | Cloud | Scalable Systems
+### 🚀 Java Full-Stack Developer | Java | Spring Boot | REST APIs | Scalable Systems
 
----
-
-## 🔥 What I Do :
-
-### 🛠️ Currently building  
-Sleek, scalable web apps using **Java (Spring Boot)** — blending creativity with performance.
-
-### 🤝 Open to  
-Collaborating on bold ideas, open-source projects, and anything that pushes the boundaries of tech.
-
-### 🧠 Diving deeper into  
-Backend architectures, microservices, databases, and system design.
-
-### 🌱 Always learning  
-Cloud deployment, AI integration, and building apps that scale smoothly in the real world.
-
-### 💬 Let’s talk about  
-Java | Spring Boot | Full-Stack Development | Clean Architecture | REST APIs
-
-### ⚡ Fun fact  
-Started out styling buttons… now I architect systems.  
-Growth looks good on code ✨
+I build clean, scalable, and production-ready web applications with a strong focus on **backend engineering**, performance, and maintainability.
 
 ---
 
-## 🌐 Socials:
+## 🔥 About Me
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+- 🛠️ **Currently building:**  
+  Scalable web applications using **Java & Spring Boot**, focusing on clean architecture and real-world performance.
+
+- 🤝 **Open to collaboration:**  
+  Open-source projects, backend systems, and impactful tech ideas.
+
+- 🧠 **Core interests:**  
+  Backend architecture, microservices, databases, and system design.
+
+- 🌱 **Currently learning:**  
+  Cloud deployment, CI/CD, and AI integration in modern applications.
+
+- 💬 **Ask me about:**  
+  Java, Spring Boot, REST APIs, Full-Stack Development, Clean Architecture.
+
+- ⚡ **Fun fact:**  
+  Started by styling buttons — now I design systems.  
+  Growth looks good on code ✨
+
+---
+
+## 🌐 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swainaditya921@gmail.com)
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 ### 🧩 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -49,9 +51,8 @@ Growth looks good on code ✨
 ![ThreeJS](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### 🗄 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🛠 Build & Tools
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
@@ -68,12 +69,17 @@ Growth looks good on code ✨
 
 ---
 
+## 📊 GitHub Analytics
 
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaPrasadSwain&show_icons=true&theme=tokyonight)
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaPrasadSwain&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPrasadSwain&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPrasadSwain&layout=compact&theme=tokyonight)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=AdityaPrasadSwain&theme=tokyonight)
+
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
+---
 
 ### 😊 Thanks for stopping by!
-⭐ Feel free to explore my repositories or drop me a message.
+⭐ Feel free to explore my repositories, star what you like, or reach out for collaboration.
