@@ -78,3 +78,7 @@ Growth looks good on code ✨
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPrasadSwain&layout=compact&theme=tokyonight)
 
 
+![GitHub Streak](https://streak-stats.demolab.com?user=AdityaPrasadSwain&theme=tokyonight)
+
+
+
