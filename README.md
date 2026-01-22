@@ -29,6 +29,32 @@ I build clean, scalable, and production-ready web applications with a strong foc
 
 ---
 
+## 🚀 Featured Projects
+
+### 🎓 Learning Platform (Online Education System)
+- Java, Spring Boot, REST APIs  
+- User authentication, course management, and content delivery  
+- Designed to support scalable learning workflows  
+- Focus on clean backend architecture and API-driven design
+
+### 🛍️ Udrakala – E-Commerce Platform
+- Java, Spring Boot, PostgreSQL  
+- Product management, categories, orders, and inventory handling  
+- Built with scalability and real-world e-commerce use cases in mind  
+- Backend-focused design with secure and maintainable APIs
+
+### 💸 Expense Management System
+- Java, Spring Boot, JWT, PostgreSQL  
+- Role-based authentication & secure REST APIs  
+- Designed for enterprise-level expense tracking
+
+### 📅 Daily Routine Management System
+- Task planning & productivity tracking system  
+- Clean backend architecture with REST APIs  
+- Focused on consistency, analytics, and usability
+
+---
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
