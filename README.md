@@ -37,12 +37,18 @@ I build clean, scalable, and production-ready web applications with a strong foc
 ## 🚀 Featured Projects
 
 ### 🎓 Learning Platform (Online Education System)
+
+🔗 Repository:https://github.com/AdityaPrasadSwain/Learning-Platfrom.git
+
 - Java, Spring Boot, REST APIs  
 - User authentication, course management, and content delivery  
 - Designed to support scalable learning workflows  
 - Focus on clean backend architecture and API-driven design
 
 ### 🛍️ Udrakala – E-Commerce Platform
+
+🔗 Repository: https://github.com/AdityaPrasadSwain/OdishaProduct.git
+
 - Java, Spring Boot, PostgreSQL  
 - Product management, categories, orders, and inventory handling  
 - Built with scalability and real-world e-commerce use cases in mind  
@@ -57,6 +63,9 @@ I build clean, scalable, and production-ready web applications with a strong foc
 - Designed for enterprise-level expense tracking
 
 ### 📅 Daily Routine Management System
+
+🔗 Repository: 
+
 - Task planning & productivity tracking system  
 - Clean backend architecture with REST APIs  
 - Focused on consistency, analytics, and usability
