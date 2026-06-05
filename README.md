@@ -129,7 +129,7 @@ I build clean, scalable, and production-ready web applications with a strong foc
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AdityaPrasadSwain&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
