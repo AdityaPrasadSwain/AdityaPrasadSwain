@@ -1,8 +1,17 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Enthusiast;Backend+Engineer;Always+Learning+New+Technologies" />
+</p>
+
+
 # 👋 Hi, I'm Aditya Prasad Swain
 
 ### 🚀 Java Full-Stack Developer | Java | Spring Boot | REST APIs | Scalable Systems
 
 I build clean, scalable, and production-ready web applications with a strong focus on **backend engineering**, performance, and maintainability.
+
+---
+
+![](https://komarev.com/ghpvc/?username=AdityaPrasadSwain&color=blue&style=for-the-badge)
 
 ---
 
@@ -44,6 +53,9 @@ I build clean, scalable, and production-ready web applications with a strong foc
 - Backend-focused design with secure and maintainable APIs
 
 ### 💸 Expense Management System
+
+🔗 Repository: https://github.com/AdityaPrasadSwain/Expense-Management-System
+
 - Java, Spring Boot, JWT, PostgreSQL  
 - Role-based authentication & secure REST APIs  
 - Designed for enterprise-level expense tracking
@@ -95,6 +107,16 @@ I build clean, scalable, and production-ready web applications with a strong foc
 
 ---
 
+## 🎯 Current Focus
+
+- 📚 Learning Data Structures & Algorithms with Java
+- 🚀 Building Industry-Level Spring Boot Projects
+- 🏗️ Exploring System Design Concepts
+- ☁️ Learning Cloud & CI/CD
+- 💼 Preparing for Software Development Roles
+
+---  
+
 ## 📊 GitHub Analytics
 
 ![Aditya's GitHub Stats](https://github-readme-stats-murex-one-84.vercel.app/api?username=AdityaPrasadSwain&show_icons=true&theme=tokyonight)
@@ -102,6 +124,18 @@ I build clean, scalable, and production-ready web applications with a strong foc
 ![Top Languages](https://github-readme-stats-murex-one-84.vercel.app/api/top-langs/?username=AdityaPrasadSwain&layout=compact&theme=tokyonight)
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AdityaPrasadSwain&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AdityaPrasadSwain&theme=tokyonight)
 
 ---
 
