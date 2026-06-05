@@ -97,7 +97,7 @@ I build clean, scalable, and production-ready web applications with a strong foc
 
 ## 📊 GitHub Analytics
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaPrasadSwain&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaPrasadSwain&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPrasadSwain&layout=compact&theme=tokyonight)
 
