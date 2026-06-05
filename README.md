@@ -127,17 +127,5 @@ I build clean, scalable, and production-ready web applications with a strong foc
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AdityaPrasadSwain&theme=tokyonight)
-
----
-
 ### 😊 Thanks for stopping by!
 ⭐ Feel free to explore my repositories, star what you like, or reach out for collaboration.
