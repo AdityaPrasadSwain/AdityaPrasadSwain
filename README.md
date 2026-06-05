@@ -11,10 +11,6 @@ I build clean, scalable, and production-ready web applications with a strong foc
 
 ---
 
-![](https://komarev.com/ghpvc/?username=AdityaPrasadSwain&color=blue&style=for-the-badge)
-
----
-
 ## 🔥 About Me
 
 - 🛠️ **Currently building:**  
