@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Enthusiast;Backend+Engineer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=36BCF7&center=true&vCenter=true&width=1100&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+PostgreSQL;Building+Real+World+Projects;Learning+Data+Structures+and+Algorithms;Exploring+System+Design;Open+to+Internship+and+Collaboration+Opportunities" />
 </p>
 
 
