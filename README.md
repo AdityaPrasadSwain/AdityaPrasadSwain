@@ -64,7 +64,7 @@ I build clean, scalable, and production-ready web applications with a strong foc
 
 ### 📅 Daily Routine Management System
 
-🔗 Repository: 
+🔗 Repository: https://github.com/AdityaPrasadSwain/Daily-Routine-Management-System.git
 
 - Task planning & productivity tracking system  
 - Clean backend architecture with REST APIs  
