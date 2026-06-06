@@ -56,7 +56,7 @@ I build clean, scalable, and production-ready web applications with a strong foc
 
 ### 💸 Expense Management System
 
-🔗 Repository: https://github.com/AdityaPrasadSwain/Expense-Management-System.git
+🔗 Repository: https://github.com/Pallabis52/Enterprise-Expense-Management-System.git
 
 - Java, Spring Boot, JWT, PostgreSQL  
 - Role-based authentication & secure REST APIs  
