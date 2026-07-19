@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=1200&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+PostgreSQL;Building+Scalable+Systems" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=1200&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+PostgreSQL;Build[...]
 </p>
 
 # 👋 Hi, I'm Aditya Prasad Swain
@@ -69,6 +69,9 @@ I build clean, scalable, and production-ready web applications with a strong foc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityaprasadswain)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swainaditya921@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaPrasadSwain)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/AdityaPrasadSwain)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://adityaprasadswain.com)
 
 ---
 
