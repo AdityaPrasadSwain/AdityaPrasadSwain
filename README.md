@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=1200&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+PostgreSQL;Building+Scalable+Applications;Exploring+AI+and+Modern+Technologies;Learning+DSA+and+System+Design" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=1200&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+PostgreSQL;Building+Scalable+Systems" alt="Typing Animation" />
 </p>
-
 
 # 👋 Hi, I'm Aditya Prasad Swain
 
-### 🚀 Java Full-Stack Developer | Java | Spring Boot | REST APIs | Scalable Systems
+### 🚀 Java Full-Stack Developer | Spring Boot | REST APIs | Scalable Systems
 
 I build clean, scalable, and production-ready web applications with a strong focus on **backend engineering**, performance, and maintainability.
 
@@ -29,8 +28,7 @@ I build clean, scalable, and production-ready web applications with a strong foc
   Java, Spring Boot, REST APIs, Full-Stack Development, Clean Architecture.
 
 - ⚡ **Fun fact:**  
-  Started by styling buttons — now I design systems.  
-  Growth looks good on code ✨
+  Started by styling buttons — now I design systems. Growth looks good on code ✨
 
 ---
 
@@ -38,45 +36,39 @@ I build clean, scalable, and production-ready web applications with a strong foc
 
 ### 🎓 Learning Platform (Online Education System)
 
-🔗 Repository:https://github.com/AdityaPrasadSwain/Learning-Platfrom.git
-
-- Java, Spring Boot, REST APIs  
-- User authentication, course management, and content delivery  
-- Designed to support scalable learning workflows  
-- Focus on clean backend architecture and API-driven design
+- **Repository:** [Learning Platform](https://github.com/AdityaPrasadSwain/Learning-Platfrom.git)
+- **Tech Stack:** Java, Spring Boot, REST APIs
+- **Features:** User authentication, course management, content delivery
+- **Highlights:** Scalable learning workflows, clean backend architecture, API-driven design
 
 ### 🛍️ Udrakala – E-Commerce Platform
 
-🔗 Repository: https://github.com/AdityaPrasadSwain/OdishaProduct.git
-
-- Java, Spring Boot, PostgreSQL  
-- Product management, categories, orders, and inventory handling  
-- Built with scalability and real-world e-commerce use cases in mind  
-- Backend-focused design with secure and maintainable APIs
+- **Repository:** [OdishaProduct](https://github.com/AdityaPrasadSwain/OdishaProduct.git)
+- **Tech Stack:** Java, Spring Boot, PostgreSQL
+- **Features:** Product management, categories, orders, inventory handling
+- **Highlights:** Real-world e-commerce use cases, backend-focused, secure APIs
 
 ### 💸 Expense Management System
 
-🔗 Repository: https://github.com/Pallabis52/Enterprise-Expense-Management-System.git
-
-- Java, Spring Boot, JWT, PostgreSQL  
-- Role-based authentication & secure REST APIs  
-- Designed for enterprise-level expense tracking
+- **Repository:** [Enterprise Expense Management](https://github.com/Pallabis52/Enterprise-Expense-Management-System.git)
+- **Tech Stack:** Java, Spring Boot, JWT, PostgreSQL
+- **Features:** Role-based authentication, secure REST APIs
+- **Highlights:** Enterprise-level expense tracking and management
 
 ### 📅 Daily Routine Management System
 
-🔗 Repository: https://github.com/AdityaPrasadSwain/Daily-Routine-Management-System.git
-
-- Task planning & productivity tracking system  
-- Clean backend architecture with REST APIs  
-- Focused on consistency, analytics, and usability
+- **Repository:** [Daily Routine Management](https://github.com/AdityaPrasadSwain/Daily-Routine-Management-System.git)
+- **Tech Stack:** Java, Spring Boot, REST APIs
+- **Features:** Task planning, productivity tracking, analytics
+- **Highlights:** Clean architecture, consistency-focused, user-friendly
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourID)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swainaditya921@gmail.com)
 
 ---
@@ -86,18 +78,19 @@ I build clean, scalable, and production-ready web applications with a strong foc
 ### 🧩 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![ThreeJS](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-### 🗄 Databases
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠 Build & Tools
+### 🛠️ Build & Tools
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
@@ -120,7 +113,7 @@ I build clean, scalable, and production-ready web applications with a strong foc
 - ☁️ Learning Cloud & CI/CD
 - 💼 Preparing for Software Development Roles
 
----  
+---
 
 ## 📊 GitHub Analytics
 
@@ -128,9 +121,8 @@ I build clean, scalable, and production-ready web applications with a strong foc
 
 ![Top Languages](https://github-readme-stats-murex-one-84.vercel.app/api/top-langs/?username=AdityaPrasadSwain&layout=compact&theme=tokyonight)
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
 ---
 
 ### 😊 Thanks for stopping by!
-⭐ Feel free to explore my repositories, star what you like, or reach out for collaboration.
+
+⭐ Feel free to explore my repositories, star what you like, or reach out for collaboration!
