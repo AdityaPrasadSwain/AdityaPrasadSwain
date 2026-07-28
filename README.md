@@ -34,101 +34,42 @@ My primary focus is **backend development with Java and Spring Boot**, while als
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
-<p>
-  <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" />
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript" />
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML" />
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS" />
-  </a>
-</p>
-
-`Java` `JavaScript` `HTML` `CSS`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 ### ⚙️ Frameworks & Libraries
 
-<p>
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://skillicons.dev/icons?i=spring" height="45" alt="Spring Boot" />
-  </a>
-  &nbsp;
-  <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" />
-  </a>
-  &nbsp;
-  <a href="https://tailwindcss.com/">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS" />
-  </a>
-  &nbsp;
-  <a href="https://vite.dev/">
-    <img src="https://skillicons.dev/icons?i=vite" height="45" alt="Vite" />
-  </a>
-</p>
-
-**Backend:**  
-`Spring Boot` `Spring Data JPA` `Spring Security` `Hibernate` `REST APIs` `JWT`
-
-**Frontend:**  
-`React` `Tailwind CSS` `Vite`
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### 🗄️ Databases
 
-<p>
-  <a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL" />
-  </a>
-  &nbsp;
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" />
-  </a>
-  &nbsp;
-  <a href="https://www.mongodb.com/">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB" />
-  </a>
-</p>
-
-`PostgreSQL` `MySQL` `MongoDB`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🔧 Tools & Platforms
 
-<p>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://maven.apache.org/">
-    <img src="https://skillicons.dev/icons?i=maven" height="45" alt="Maven" />
-  </a>
-  &nbsp;
-  <a href="https://www.postman.com/">
-    <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman" />
-  </a>
-  &nbsp;
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code" />
-  </a>
-  &nbsp;
-  <a href="https://www.eclipse.org/">
-    <img src="https://skillicons.dev/icons?i=eclipse" height="45" alt="Eclipse" />
-  </a>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-`Git` `GitHub` `Maven` `Postman` `VS Code` `Eclipse / STS`
+### 💻 IDEs
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
 ---
 
