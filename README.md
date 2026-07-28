@@ -155,20 +155,21 @@ A productivity application for managing daily tasks and routines.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdityaPrasadSwain/AdityaPrasadSwain/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdityaPrasadSwain/AdityaPrasadSwain/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositories Per Language" />
-  <img src="https://raw.githubusercontent.com/AdityaPrasadSwain/AdityaPrasadSwain/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
-</p>
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdityaPrasadSwain/AdityaPrasadSwain/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/AdityaPrasadSwain/AdityaPrasadSwain/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=AdityaPrasadSwain&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
