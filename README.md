@@ -16,16 +16,20 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Java Full-Stack Developer** focused on learning and building real-world web applications.
+I'm **Aditya Prasad Swain**, an aspiring **Java Full-Stack Developer** with a strong interest in building reliable, scalable, and user-focused web applications.
 
-- 🔭 Building projects using **Java & Spring Boot**
-- ⚛️ Working with **React & Vite**
-- 🧠 Learning **Data Structures & Algorithms with Java**
-- 🗄️ Working with **PostgreSQL**
-- 🔐 Learning **Spring Security & REST API Development**
-- 🏗️ Exploring **System Design**
-- 💼 Looking for **Java / Backend / Full-Stack Development opportunities**
+My primary focus is **backend development with Java and Spring Boot**, while also working with **React** to build modern frontend applications. I enjoy turning ideas into practical projects, designing REST APIs, working with databases, and continuously improving my problem-solving and development skills.
 
+- ☕ Building applications with **Java, Spring Boot & Spring Data JPA**
+- ⚛️ Developing modern user interfaces with **React & Vite**
+- 🔌 Designing and integrating **RESTful APIs**
+- 🗄️ Working with **PostgreSQL** and relational database concepts
+- 🔐 Learning **Spring Security, JWT & Role-Based Access Control**
+- 🧠 Strengthening problem-solving through **DSA with Java**
+- 🏗️ Exploring **System Design, Clean Architecture & Backend Best Practices**
+- 🚀 Building real-world projects to improve my development experience
+- 🤝 Interested in learning, collaboration, and open-source development
+- 💼 Open to **Java Developer, Backend Developer, Full-Stack Developer, Internship & Entry-Level opportunities**
 ---
 
 ## 🛠️ Tech Stack
