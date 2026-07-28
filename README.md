@@ -214,40 +214,23 @@ A productivity application for managing daily tasks and routines.
 
 ---
 
-## 📊 GitHub Profile & Activity
+---
 
-I regularly use GitHub to build projects, practice development, and improve my programming skills.
+## 📊 GitHub Analytics
 
-<p align="left">
-  <a href="https://github.com/AdityaPrasadSwain">
-    <img src="https://img.shields.io/badge/GitHub-AdityaPrasadSwain-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-
-  <a href="https://github.com/AdityaPrasadSwain?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories" />
-  </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdityaPrasadSwain/AdityaPrasadSwain/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
 </p>
 
-### 💻 Main Technologies
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdityaPrasadSwain/AdityaPrasadSwain/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositories Per Language" />
+  <img src="https://raw.githubusercontent.com/AdityaPrasadSwain/AdityaPrasadSwain/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
+</p>
 
-`Java` `Spring Boot` `PostgreSQL` `React` `JavaScript` `HTML` `CSS`
-
-### 📌 GitHub Highlights
-
-- ☕ Building Java and Spring Boot projects
-- 🔌 Developing REST APIs
-- 🗄️ Working with PostgreSQL and database-driven applications
-- ⚛️ Building frontend applications with React
-- 🧠 Practicing Data Structures & Algorithms with Java
-- 🔧 Using Git and GitHub for version control
-- 🚀 Continuously improving existing projects
-
-### ⭐ Featured Repositories
-
-- [Udrakala – E-Commerce Platform](https://github.com/AdityaPrasadSwain/OdishaProduct)
-- [Learning Platform](https://github.com/AdityaPrasadSwain/Learning-Platfrom)
-- [Daily Routine Management System](https://github.com/AdityaPrasadSwain/Daily-Routine-Management-System)
-- [Enterprise Expense Management System](https://github.com/Pallabis52/Enterprise-Expense-Management-System)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdityaPrasadSwain/AdityaPrasadSwain/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/AdityaPrasadSwain/AdityaPrasadSwain/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
+</p>
 
 ---
 
