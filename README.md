@@ -23,17 +23,50 @@ I build clean, scalable, and production-ready web applications with a strong foc
 
 ## 🚀 Featured Projects
 
-- **Learning Platform** — Java, Spring Boot, REST APIs
-  - Repository: https://github.com/AdityaPrasadSwain/Learning-Platfrom.git
+Below are concise, clear descriptions for each project so visitors immediately understand what the project does, its tech stack, and the main features.
 
-- **Udrakala – E-Commerce Platform** — Java, Spring Boot, PostgreSQL
-  - Repository: https://github.com/AdityaPrasadSwain/OdishaProduct.git
+### 🎓 Learning Platform (Online Education System)
+- Repository: https://github.com/AdityaPrasadSwain/Learning-Platfrom.git
+- Purpose: A web-based learning management system (LMS) for creating and delivering courses, tracking student progress and managing content for instructors.
+- Key features:
+  - User roles (students, instructors, admin)
+  - Course creation and content upload (videos, notes)
+  - Enrollments, progress tracking and quizzes
+  - RESTful APIs for frontend integration
+- Tech stack: Java, Spring Boot, Spring Data JPA, PostgreSQL, JWT for authentication
+- Status: Backend-focused, suitable as a foundation for production-ready LMS with further frontend polish.
 
-- **Expense Management System** — Java, Spring Boot, JWT, PostgreSQL
-  - Repository: https://github.com/Pallabis52/Enterprise-Expense-Management-System.git
+### 🛍️ Udrakala – E-Commerce Platform (OdishaProduct)
+- Repository: https://github.com/AdityaPrasadSwain/OdishaProduct.git
+- Purpose: An e-commerce backend focused on product/catalog management, orders and inventory tailored for local sellers and small businesses.
+- Key features:
+  - Product & category management
+  - Order processing and basic inventory control
+  - Admin dashboard endpoints for managing sellers and products
+  - Secure REST APIs with role-based access
+- Tech stack: Java, Spring Boot, PostgreSQL, Spring Security
+- Status: Production-ready backend patterns; integrate with a modern frontend (React/Vue) for a full storefront.
 
-- **Daily Routine Management System** — Java, Spring Boot, REST APIs
-  - Repository: https://github.com/AdityaPrasadSwain/Daily-Routine-Management-System.git
+### 💸 Enterprise Expense Management System
+- Repository: https://github.com/Pallabis52/Enterprise-Expense-Management-System.git
+- Purpose: An enterprise-grade system to track expenses, approvals, and reporting for organizations.
+- Key features:
+  - Role-based access (employee, manager, finance)
+  - Expense submission, approval workflows and audit logs
+  - JWT authentication and secure REST APIs
+  - Reporting endpoints for finance teams
+- Tech stack: Java, Spring Boot, PostgreSQL, JWT
+- Status: Solid backend suited for extension with CSV imports, reporting UI and integrations (e.g., accounting tools).
+
+### 📅 Daily Routine Management System
+- Repository: https://github.com/AdityaPrasadSwain/Daily-Routine-Management-System.git
+- Purpose: A productivity app for planning daily tasks, tracking routines and analyzing completion trends.
+- Key features:
+  - Task creation, scheduling and recurring routines
+  - Progress tracking and simple analytics
+  - REST APIs designed for mobile/web clients
+- Tech stack: Java, Spring Boot, REST APIs
+- Status: Lightweight and easy to extend—ideal for building a cross-platform app with a React or mobile frontend.
 
 ---
 
