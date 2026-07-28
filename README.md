@@ -5,436 +5,241 @@
 <h1 align="center">👋 Hi, I'm Aditya Prasad Swain</h1>
 
 <h3 align="center">
-  🚀 Java Full-Stack Developer | Spring Boot | React | PostgreSQL
+  Java Full-Stack Developer | Spring Boot | React | PostgreSQL
 </h3>
 
 <p align="center">
-  Building scalable, secure, and maintainable full-stack applications with a strong focus on backend engineering.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/adityaprasadswain">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:swainaditya921@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/AdityaPrasadSwain">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/AdityaPrasadSwain">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://adityaprasadswain.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdityaPrasadSwain&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  Building and learning full-stack web applications with a focus on Java, Spring Boot, REST APIs, React, and PostgreSQL.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Java Full-Stack Developer** focused on building real-world web applications using **Java, Spring Boot, React, and PostgreSQL**.
+I'm a **Java Full-Stack Developer** focused on learning and building real-world web applications.
 
-I enjoy designing REST APIs, working with databases, implementing secure authentication and authorization, and building clean, scalable, and maintainable backend architectures.
-
-* 🔭 Currently building scalable applications with **Java & Spring Boot**
-* ⚛️ Working with **React + Vite** for modern frontend development
-* 🧠 Learning **Data Structures & Algorithms with Java**
-* 🏗️ Exploring **System Design & Scalable Architecture**
-* ☁️ Learning **Cloud Deployment, CI/CD & DevOps fundamentals**
-* 🤖 Exploring **AI integration in modern applications**
-* 🤝 Open to **Open-Source Collaboration**
-* 💼 Looking for **Java / Backend / Full-Stack Development Opportunities**
-* 💬 Ask me about **Java, Spring Boot, REST APIs, PostgreSQL & React**
-* ⚡ Fun fact: **Started by styling buttons — now I design systems.**
+- 🔭 Building projects using **Java & Spring Boot**
+- ⚛️ Working with **React & Vite**
+- 🧠 Learning **Data Structures & Algorithms with Java**
+- 🗄️ Working with **PostgreSQL**
+- 🔐 Learning **Spring Security & REST API Development**
+- 🏗️ Exploring **System Design**
+- 💼 Looking for **Java / Backend / Full-Stack Development opportunities**
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## 💻 Programming Languages
-
-<p align="left">
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" />
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" />
-  </a>
-</p>
-
-`Java` • `JavaScript` • `HTML5` • `CSS3`
-
----
-
-## ⚙️ Frameworks & Libraries
-
-<p align="left">
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://skillicons.dev/icons?i=spring" height="50" alt="Spring Boot" />
-  </a>
-  &nbsp;
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
-  </a>
-  &nbsp;
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
-  </a>
-  &nbsp;
-  <a href="https://vite.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vite" height="50" alt="Vite" />
-  </a>
-</p>
-
-**Backend:**
-`Spring Boot` • `Spring Data JPA` • `Spring Security` • `Hibernate` • `REST APIs` • `JWT Authentication`
-
-**Frontend:**
-`React` • `Tailwind CSS` • `Vite`
-
----
-
-## 🗄️ Databases
-
-<p align="left">
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" />
-  </a>
-  &nbsp;
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />
-  </a>
-  &nbsp;
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
-  </a>
-</p>
-
-`PostgreSQL` • `MongoDB` • `MySQL` • `Database Design` • `JPA/Hibernate ORM`
-
----
-
-## 🔧 Tools & Platforms
-
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://maven.apache.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=maven" height="50" alt="Maven" />
-  </a>
-  &nbsp;
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />
-  </a>
-  &nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
-  </a>
-  &nbsp;
-  <a href="https://www.eclipse.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=eclipse" height="50" alt="Eclipse" />
-  </a>
-  &nbsp;
-  <a href="https://vercel.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel" />
-  </a>
-</p>
-
-`Git` • `GitHub` • `Maven` • `Postman` • `VS Code` • `Eclipse / STS` • `Vercel` • `GitHub Actions`
-
----
-
-# 🚀 Featured Projects
-
-Below are concise, clear descriptions for each project so visitors immediately understand what the project does, its tech stack, and the main features.
-
----
-
-### 🎓 Learning Platform (Online Education System)
-
-**📂 Repository:**
-https://github.com/AdityaPrasadSwain/Learning-Platfrom.git
-
-**🎯 Purpose:**
-A web-based learning management system (LMS) for creating and delivering courses, tracking student progress and managing content for instructors.
-
-**✨ Key Features:**
-
-* User roles (students, instructors, admin)
-* Course creation and content upload (videos, notes)
-* Enrollments, progress tracking and quizzes
-* RESTful APIs for frontend integration
-
-**🛠 Tech Stack:**
-`Java` • `Spring Boot` • `Spring Data JPA` • `PostgreSQL` • `JWT Authentication`
-
-**📌 Status:**
-Backend-focused, suitable as a foundation for production-ready LMS with further frontend polish.
-
----
-
-### 🛍️ Udrakala – E-Commerce Platform (OdishaProduct)
-
-**📂 Repository:**
-https://github.com/AdityaPrasadSwain/OdishaProduct.git
-
-**🎯 Purpose:**
-An e-commerce backend focused on product/catalog management, orders and inventory tailored for local sellers and small businesses.
-
-**✨ Key Features:**
-
-* Product & category management
-* Order processing and basic inventory control
-* Admin dashboard endpoints for managing sellers and products
-* Secure REST APIs with role-based access
-
-**🛠 Tech Stack:**
-`Java` • `Spring Boot` • `PostgreSQL` • `Spring Security`
-
-**📌 Status:**
-Production-ready backend patterns; integrate with a modern frontend (React/Vue) for a full storefront.
-
----
-
-### 💸 Enterprise Expense Management System
-
-**📂 Repository:**
-https://github.com/Pallabis52/Enterprise-Expense-Management-System.git
-
-**🎯 Purpose:**
-An enterprise-grade system to track expenses, approvals, and reporting for organizations.
-
-**✨ Key Features:**
-
-* Role-based access (employee, manager, finance)
-* Expense submission, approval workflows and audit logs
-* JWT authentication and secure REST APIs
-* Reporting endpoints for finance teams
-
-**🛠 Tech Stack:**
-`Java` • `Spring Boot` • `PostgreSQL` • `JWT`
-
-**📌 Status:**
-Solid backend suited for extension with CSV imports, reporting UI and integrations (e.g., accounting tools).
-
----
-
-### 📅 Daily Routine Management System
-
-**📂 Repository:**
-https://github.com/AdityaPrasadSwain/Daily-Routine-Management-System.git
-
-**🎯 Purpose:**
-A productivity app for planning daily tasks, tracking routines and analyzing completion trends.
-
-**✨ Key Features:**
-
-* Task creation, scheduling and recurring routines
-* Progress tracking and simple analytics
-* REST APIs designed for mobile/web clients
-
-**🛠 Tech Stack:**
-`Java` • `Spring Boot` • `REST APIs`
-
-**📌 Status:**
-Lightweight and easy to extend—ideal for building a cross-platform app with a React or mobile frontend.
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=AdityaPrasadSwain&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Aditya Prasad Swain GitHub Stats"
-  />
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPrasadSwain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Most Used Languages"
-  />
-</p>
-
----
-
-## 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=AdityaPrasadSwain&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaPrasadSwain&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
-## 💻 Languages Used
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPrasadSwain&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Languages Used"
-  />
-</p>
-
-<p align="center">
-  <i>
-    Language statistics represent code across my public GitHub repositories
-    and do not necessarily indicate overall proficiency.
-  </i>
-</p>
-
----
-
-# 📌 Top Repositories
-
-### 🛍️ Udrakala — E-Commerce Platform
+### 💻 Programming Languages
 
 <p>
-  <a href="https://github.com/AdityaPrasadSwain/OdishaProduct">
-    <img
-      src="https://img.shields.io/badge/Udrakala-OdishaProduct-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="Udrakala Repository"
-    />
+  <a href="https://www.java.com/">
+    <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" />
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript" />
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML" />
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS" />
   </a>
 </p>
 
-**Tech Stack:** `Java` • `Spring Boot` • `PostgreSQL` • `Spring Security`
+`Java` `JavaScript` `HTML` `CSS`
 
-A scalable e-commerce platform focused on product management, sellers, orders, inventory, authentication, and secure REST APIs.
+### ⚙️ Frameworks & Libraries
+
+<p>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://skillicons.dev/icons?i=spring" height="45" alt="Spring Boot" />
+  </a>
+  &nbsp;
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" />
+  </a>
+  &nbsp;
+  <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS" />
+  </a>
+  &nbsp;
+  <a href="https://vite.dev/">
+    <img src="https://skillicons.dev/icons?i=vite" height="45" alt="Vite" />
+  </a>
+</p>
+
+**Backend:**  
+`Spring Boot` `Spring Data JPA` `Spring Security` `Hibernate` `REST APIs` `JWT`
+
+**Frontend:**  
+`React` `Tailwind CSS` `Vite`
+
+### 🗄️ Databases
+
+<p>
+  <a href="https://www.postgresql.org/">
+    <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL" />
+  </a>
+  &nbsp;
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" />
+  </a>
+  &nbsp;
+  <a href="https://www.mongodb.com/">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB" />
+  </a>
+</p>
+
+`PostgreSQL` `MySQL` `MongoDB`
+
+### 🔧 Tools & Platforms
+
+<p>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://maven.apache.org/">
+    <img src="https://skillicons.dev/icons?i=maven" height="45" alt="Maven" />
+  </a>
+  &nbsp;
+  <a href="https://www.postman.com/">
+    <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman" />
+  </a>
+  &nbsp;
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code" />
+  </a>
+  &nbsp;
+  <a href="https://www.eclipse.org/">
+    <img src="https://skillicons.dev/icons?i=eclipse" height="45" alt="Eclipse" />
+  </a>
+</p>
+
+`Git` `GitHub` `Maven` `Postman` `VS Code` `Eclipse / STS`
+
+---
+
+## 🚀 Featured Projects
+
+### 🛍️ Udrakala – E-Commerce Platform
+
+An e-commerce application focused on product management, sellers, orders, inventory, and secure APIs.
+
+**Key Features:**
+- Product & category management
+- Seller management
+- Inventory management
+- Order management
+- Role-based access
+- Secure REST APIs
+
+**Tech Stack:**  
+`Java` `Spring Boot` `Spring Security` `PostgreSQL`
+
+**Repository:**  
+[View Udrakala on GitHub](https://github.com/AdityaPrasadSwain/OdishaProduct)
 
 ---
 
 ### 🎓 Learning Platform
 
-<p>
-  <a href="https://github.com/AdityaPrasadSwain/Learning-Platfrom">
-    <img
-      src="https://img.shields.io/badge/Learning_Platform-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="Learning Platform Repository"
-    />
-  </a>
-</p>
+A Learning Management System for creating courses, managing educational content, and tracking student progress.
 
-**Tech Stack:** `Java` • `Spring Boot` • `Spring Data JPA` • `PostgreSQL` • `JWT`
+**Key Features:**
+- Student, Instructor & Admin roles
+- Course management
+- Video & notes management
+- Student enrolment
+- Progress tracking
+- Quizzes
+- REST APIs
 
-A learning management system for course creation, student enrollment, progress tracking, quizzes, and educational content management.
+**Tech Stack:**  
+`Java` `Spring Boot` `Spring Data JPA` `PostgreSQL` `JWT`
+
+**Repository:**  
+[View Learning Platform on GitHub](https://github.com/AdityaPrasadSwain/Learning-Platfrom)
+
+---
+
+### 💸 Enterprise Expense Management System
+
+An application for managing employee expenses, approval workflows, and reporting.
+
+**Key Features:**
+- Employee, Manager & Finance roles
+- Expense submission
+- Approval workflow
+- JWT authentication
+- REST APIs
+- Reporting
+
+**Tech Stack:**  
+`Java` `Spring Boot` `PostgreSQL` `JWT`
+
+**Repository:**  
+[View Expense Management System on GitHub](https://github.com/Pallabis52/Enterprise-Expense-Management-System)
 
 ---
 
 ### 📅 Daily Routine Management System
 
-<p>
-  <a href="https://github.com/AdityaPrasadSwain/Daily-Routine-Management-System">
-    <img
-      src="https://img.shields.io/badge/Daily_Routine-Management_System-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="Daily Routine Management System Repository"
-    />
-  </a>
-</p>
+A productivity application for managing daily tasks and routines.
 
-**Tech Stack:** `Java` • `Spring Boot` • `REST APIs`
+**Key Features:**
+- Task creation
+- Task scheduling
+- Recurring routines
+- Progress tracking
+- REST APIs
 
-A productivity application for daily task planning, recurring routines, progress tracking, and routine management.
+**Tech Stack:**  
+`Java` `Spring Boot` `REST APIs`
 
----
-
-# 👨‍💻 GitHub Profile Stats
-
-<p align="center">
-
-  <a href="https://github.com/AdityaPrasadSwain?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/AdityaPrasadSwain?label=Followers&style=for-the-badge&logo=github"
-      alt="GitHub Followers"
-    />
-  </a>
-
-  <a href="https://github.com/AdityaPrasadSwain?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/Public_Repositories-View_All-181717?style=for-the-badge&logo=github"
-      alt="GitHub Repositories"
-    />
-  </a>
-
-<img
- src="https://komarev.com/ghpvc/?username=AdityaPrasadSwain&label=Profile%20Views&color=0e75b6&style=for-the-badge"
- alt="Profile Views"
-/>
-
-</p>
+**Repository:**  
+[View Daily Routine Management System on GitHub](https://github.com/AdityaPrasadSwain/Daily-Routine-Management-System)
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
-* 📚 Learning **Data Structures & Algorithms with Java**
-* ☕ Strengthening **Advanced Java & Spring Boot**
-* 🚀 Building **Industry-Level Spring Boot Projects**
-* ⚛️ Building modern applications with **React**
-* 🏗️ Exploring **System Design Concepts**
-* 🗄️ Learning **Database Design & Optimization**
-* 🔐 Improving **Application Security**
-* ☁️ Learning **Cloud Deployment**
-* ⚙️ Exploring **CI/CD & DevOps**
-* 🤖 Learning **AI Integration**
-* 💼 Preparing for **Software Development Roles**
+- 📚 Data Structures & Algorithms with Java
+- ☕ Java & Spring Boot
+- ⚛️ React Development
+- 🔐 Spring Security
+- 🔌 REST API Development
+- 🗄️ PostgreSQL
+- 🏗️ System Design Basics
+- 🚀 Building real-world projects
 
 ---
 
-# 💼 Open to Opportunities
+## 💼 Open to Opportunities
 
-I'm actively looking for opportunities where I can contribute to real-world software products, solve meaningful engineering problems, and continue growing as a developer.
+I'm currently looking for opportunities where I can apply my skills, work on real-world software projects, and continue growing as a developer.
 
-### 🎯 Roles I'm Interested In
+**Interested Roles:**
 
-* ☕ Java Developer
-* 🌱 Spring Boot Developer
-* ⚙️ Backend Developer
-* 💻 Full-Stack Developer
-* 🚀 Software Developer
-* 👨‍💻 Software Engineer
-* 🎓 Entry-Level / Graduate Developer Roles
-
-I'm especially interested in teams working on **scalable backend systems, REST APIs, database-driven applications, and modern full-stack products**.
+- Java Developer
+- Spring Boot Developer
+- Backend Developer
+- Full-Stack Developer
+- Software Developer
+- Software Engineer Intern
+- Entry-Level Developer
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -443,7 +248,7 @@ I'm especially interested in teams working on **scalable backend systems, REST A
   </a>
 
   <a href="mailto:swainaditya921@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
   <a href="https://github.com/AdityaPrasadSwain">
@@ -455,7 +260,7 @@ I'm especially interested in teams working on **scalable backend systems, REST A
   </a>
 
   <a href="https://adityaprasadswain.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 
 </p>
@@ -463,9 +268,5 @@ I'm especially interested in teams working on **scalable backend systems, REST A
 ---
 
 <p align="center">
-  <b>💡 Code. Learn. Build. Improve. Repeat.</b>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile! Feel free to explore my repositories, star what you like, or reach out for collaboration.
+  <b>Keep Learning • Keep Building • Keep Improving 🚀</b>
 </p>
