@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=1200&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+PostgreSQL;Build[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=1200&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+PostgreSQL;Building+Scalable+APIs" alt="typing" />
 </p>
 
 # 👋 Hi, I'm Aditya Prasad Swain
@@ -12,55 +12,28 @@ I build clean, scalable, and production-ready web applications with a strong foc
 
 ## 🔥 About Me
 
-- 🛠️ **Currently building:**  
-  Scalable web applications using **Java & Spring Boot**, focusing on clean architecture and real-world performance.
-
-- 🤝 **Open to collaboration:**  
-  Open-source projects, backend systems, and impactful tech ideas.
-
-- 🧠 **Core interests:**  
-  Backend architecture, microservices, databases, and system design.
-
-- 🌱 **Currently learning:**  
-  Cloud deployment, CI/CD, and AI integration in modern applications.
-
-- 💬 **Ask me about:**  
-  Java, Spring Boot, REST APIs, Full-Stack Development, Clean Architecture.
-
-- ⚡ **Fun fact:**  
-  Started by styling buttons — now I design systems. Growth looks good on code ✨
+- 🛠️ **Currently building:** Scalable web applications using **Java & Spring Boot**, focusing on clean architecture and real-world performance.
+- 🤝 **Open to collaboration:** Open-source projects, backend systems, and impactful tech ideas.
+- 🧠 **Core interests:** Backend architecture, microservices, databases, and system design.
+- 🌱 **Currently learning:** Cloud deployment, CI/CD, and AI integration in modern applications.
+- 💬 **Ask me about:** Java, Spring Boot, REST APIs, Full-Stack Development, Clean Architecture.
+- ⚡ **Fun fact:** Started by styling buttons — now I design systems. Growth looks good on code ✨
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎓 Learning Platform (Online Education System)
+- **Learning Platform** — Java, Spring Boot, REST APIs
+  - Repository: https://github.com/AdityaPrasadSwain/Learning-Platfrom.git
 
-- **Repository:** [Learning Platform](https://github.com/AdityaPrasadSwain/Learning-Platfrom.git)
-- **Tech Stack:** Java, Spring Boot, REST APIs
-- **Features:** User authentication, course management, content delivery
-- **Highlights:** Scalable learning workflows, clean backend architecture, API-driven design
+- **Udrakala – E-Commerce Platform** — Java, Spring Boot, PostgreSQL
+  - Repository: https://github.com/AdityaPrasadSwain/OdishaProduct.git
 
-### 🛍️ Udrakala – E-Commerce Platform
+- **Expense Management System** — Java, Spring Boot, JWT, PostgreSQL
+  - Repository: https://github.com/Pallabis52/Enterprise-Expense-Management-System.git
 
-- **Repository:** [OdishaProduct](https://github.com/AdityaPrasadSwain/OdishaProduct.git)
-- **Tech Stack:** Java, Spring Boot, PostgreSQL
-- **Features:** Product management, categories, orders, inventory handling
-- **Highlights:** Real-world e-commerce use cases, backend-focused, secure APIs
-
-### 💸 Expense Management System
-
-- **Repository:** [Enterprise Expense Management](https://github.com/Pallabis52/Enterprise-Expense-Management-System.git)
-- **Tech Stack:** Java, Spring Boot, JWT, PostgreSQL
-- **Features:** Role-based authentication, secure REST APIs
-- **Highlights:** Enterprise-level expense tracking and management
-
-### 📅 Daily Routine Management System
-
-- **Repository:** [Daily Routine Management](https://github.com/AdityaPrasadSwain/Daily-Routine-Management-System.git)
-- **Tech Stack:** Java, Spring Boot, REST APIs
-- **Features:** Task planning, productivity tracking, analytics
-- **Highlights:** Clean architecture, consistency-focused, user-friendly
+- **Daily Routine Management System** — Java, Spring Boot, REST APIs
+  - Repository: https://github.com/AdityaPrasadSwain/Daily-Routine-Management-System.git
 
 ---
 
@@ -76,32 +49,13 @@ I build clean, scalable, and production-ready web applications with a strong foc
 
 ## 💻 Tech Stack
 
-### 🧩 Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+**Backend:** Java, Spring Boot, Spring Data JPA
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+**Frontend:** React, TailwindCSS, Vite
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**Databases:** PostgreSQL, MongoDB
 
-### 🛠️ Build & Tools
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 💡 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Tools:** Maven, Git, GitHub, Postman, GitHub Actions
 
 ---
 
