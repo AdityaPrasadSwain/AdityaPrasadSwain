@@ -266,20 +266,20 @@ Lightweight and easy to extend—ideal for building a cross-platform app with a 
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats-murex-one-84.vercel.app/api?username=AdityaPrasadSwain&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Aditya's GitHub Stats"
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=AdityaPrasadSwain&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Aditya Prasad Swain GitHub Stats"
   />
   <img
-    width="49%"
-    src="https://github-readme-stats-murex-one-84.vercel.app/api/top-langs/?username=AdityaPrasadSwain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPrasadSwain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Most Used Languages"
   />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
   <img
@@ -294,8 +294,8 @@ Lightweight and easy to extend—ideal for building a cross-platform app with a 
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaPrasadSwain&theme=tokyo-night&hide_border=true&area=true"
     width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaPrasadSwain&theme=tokyo-night&hide_border=true&area=true"
     alt="GitHub Activity Graph"
   />
 </p>
@@ -306,43 +306,70 @@ Lightweight and easy to extend—ideal for building a cross-platform app with a 
 
 <p align="center">
   <img
-    src="https://github-readme-stats-murex-one-84.vercel.app/api/top-langs/?username=AdityaPrasadSwain&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Most Used Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPrasadSwain&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Languages Used"
   />
 </p>
 
 <p align="center">
-  <i>Language statistics represent code across my public GitHub repositories and do not necessarily indicate overall proficiency.</i>
+  <i>
+    Language statistics represent code across my public GitHub repositories
+    and do not necessarily indicate overall proficiency.
+  </i>
 </p>
 
 ---
 
 # 📌 Top Repositories
 
-<p align="center">
+### 🛍️ Udrakala — E-Commerce Platform
+
+<p>
   <a href="https://github.com/AdityaPrasadSwain/OdishaProduct">
     <img
-      src="https://github-readme-stats-murex-one-84.vercel.app/api/pin/?username=AdityaPrasadSwain&repo=OdishaProduct&theme=tokyonight&hide_border=true"
-      alt="Udrakala E-Commerce Platform"
+      src="https://img.shields.io/badge/Udrakala-OdishaProduct-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Udrakala Repository"
     />
   </a>
+</p>
 
+**Tech Stack:** `Java` • `Spring Boot` • `PostgreSQL` • `Spring Security`
+
+A scalable e-commerce platform focused on product management, sellers, orders, inventory, authentication, and secure REST APIs.
+
+---
+
+### 🎓 Learning Platform
+
+<p>
   <a href="https://github.com/AdityaPrasadSwain/Learning-Platfrom">
     <img
-      src="https://github-readme-stats-murex-one-84.vercel.app/api/pin/?username=AdityaPrasadSwain&repo=Learning-Platfrom&theme=tokyonight&hide_border=true"
-      alt="Learning Platform"
+      src="https://img.shields.io/badge/Learning_Platform-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Learning Platform Repository"
     />
   </a>
 </p>
 
-<p align="center">
+**Tech Stack:** `Java` • `Spring Boot` • `Spring Data JPA` • `PostgreSQL` • `JWT`
+
+A learning management system for course creation, student enrollment, progress tracking, quizzes, and educational content management.
+
+---
+
+### 📅 Daily Routine Management System
+
+<p>
   <a href="https://github.com/AdityaPrasadSwain/Daily-Routine-Management-System">
     <img
-      src="https://github-readme-stats-murex-one-84.vercel.app/api/pin/?username=AdityaPrasadSwain&repo=Daily-Routine-Management-System&theme=tokyonight&hide_border=true"
-      alt="Daily Routine Management System"
+      src="https://img.shields.io/badge/Daily_Routine-Management_System-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Daily Routine Management System Repository"
     />
   </a>
 </p>
+
+**Tech Stack:** `Java` • `Spring Boot` • `REST APIs`
+
+A productivity application for daily task planning, recurring routines, progress tracking, and routine management.
 
 ---
 
@@ -359,8 +386,8 @@ Lightweight and easy to extend—ideal for building a cross-platform app with a 
 
   <a href="https://github.com/AdityaPrasadSwain?tab=repositories">
     <img
-      src="https://img.shields.io/badge/Public%20Repositories-View%20Repos-181717?style=for-the-badge&logo=github"
-      alt="Public Repositories"
+      src="https://img.shields.io/badge/Public_Repositories-View_All-181717?style=for-the-badge&logo=github"
+      alt="GitHub Repositories"
     />
   </a>
 
@@ -386,28 +413,6 @@ Lightweight and easy to extend—ideal for building a cross-platform app with a 
 * ⚙️ Exploring **CI/CD & DevOps**
 * 🤖 Learning **AI Integration**
 * 💼 Preparing for **Software Development Roles**
-
----
-
-# 📚 Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/DSA-Java-orange?style=flat-square" alt="DSA Java" />
-  <img src="https://img.shields.io/badge/System%20Design-Learning-blue?style=flat-square" alt="System Design" />
-  <img src="https://img.shields.io/badge/Microservices-Learning-green?style=flat-square" alt="Microservices" />
-  <img src="https://img.shields.io/badge/Cloud-Learning-blueviolet?style=flat-square" alt="Cloud" />
-  <img src="https://img.shields.io/badge/CI%2FCD-Learning-yellow?style=flat-square" alt="CI/CD" />
-</p>
-
-* Advanced Java
-* Data Structures & Algorithms
-* Spring Boot Architecture
-* Microservices Fundamentals
-* System Design
-* Database Optimization
-* Cloud Deployment
-* CI/CD Pipelines
-* AI Integration with Java Applications
 
 ---
 
