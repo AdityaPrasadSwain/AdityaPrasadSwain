@@ -214,8 +214,6 @@ A productivity application for managing daily tasks and routines.
 
 ---
 
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
