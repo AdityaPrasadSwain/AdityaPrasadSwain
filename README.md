@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=1200&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+PostgreSQL;Building+Scalable+REST+APIs;Learning+DSA+%26+System+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=1200&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Postgr[...]" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Aditya Prasad Swain</h1>
@@ -18,7 +18,7 @@
 
 I'm **Aditya Prasad Swain**, an aspiring **Java Full-Stack Developer** with a strong interest in building reliable, scalable, and user-focused web applications.
 
-My primary focus is **backend development with Java and Spring Boot**, while also working with **React** to build modern frontend applications. I enjoy turning ideas into practical projects, designing REST APIs, working with databases, and continuously improving my problem-solving and development skills.
+My primary focus is **backend development with Java and Spring Boot**, while also working with **React** to build modern frontend applications. I enjoy turning ideas into practical projects, desig[...]
 
 - ☕ Building applications with **Java, Spring Boot & Spring Data JPA**
 - ⚛️ Developing modern user interfaces with **React & Vite**
@@ -159,6 +159,10 @@ A productivity application for managing daily tasks and routines.
 
 <p align="center">
   <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AdityaPrasadSwain&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
 
 ---
