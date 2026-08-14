@@ -163,10 +163,6 @@ A productivity application for managing daily tasks and routines.
 
 ---
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -175,6 +171,10 @@ A productivity application for managing daily tasks and routines.
     alt="GitHub Trophies"
   />
 </p>
+
+---
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
