@@ -162,7 +162,11 @@ A productivity application for managing daily tasks and routines.
 </p>
 
 <p align="center">
-  <img src="[https://streak-stats.demolab.com?user=AdityaPrasadSwain&theme=radical&hide_border=true](https://streak-stats.demolab.com/?user=AdityaPrasadSwain&theme=radical&hide_border=true)" height="180" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=AdityaPrasadSwain&theme=radical&hide_border=true"
+    height="180"
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 ---
