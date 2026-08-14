@@ -208,7 +208,7 @@ I'm currently looking for opportunities where I can apply my skills, work on rea
     <img src="https://img.shields.io/badge/LeetCode-AdityaPrasadSwain-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 
-  <a href="https://adityaprasadswain.com">
+  <a href="https://adityaprasadswain.com](https://portfolio-neon-pi-42.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 
