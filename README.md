@@ -174,10 +174,7 @@ A productivity application for managing daily tasks and routines.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=AdityaPrasadSwain&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
-    alt="GitHub Trophies"
-  />
+  <img src="https://streak-stats.demolab.com?user=AdityaPrasadSwain&theme=radical&hide_border=true" height="180"/>
 </p>
 
 ---
