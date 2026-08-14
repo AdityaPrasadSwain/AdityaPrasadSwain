@@ -155,30 +155,6 @@ A productivity application for managing daily tasks and routines.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics" />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=AdityaPrasadSwain&theme=radical&hide_border=true"
-    height="180"
-    alt="GitHub Streak Stats"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdityaPrasadSwain&theme=radical&hide_border=true" height="180"/>
-</p>
-
----
-
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
