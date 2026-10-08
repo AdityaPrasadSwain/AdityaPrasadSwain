@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GitHub Profile Preview — Aditya Prasad Swain</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: #0d1117;
+      color: #c9d1d9;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      padding: 0;
+    }
+    .container {
+      max-width: 880px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+    .preview-banner {
+      background: linear-gradient(135deg, #161b22, #1a2332);
+      border: 1px solid #30363d;
+      border-radius: 12px;
+      padding: 16px 24px;
+      margin-bottom: 32px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .preview-banner .dot { width: 8px; height: 8px; border-radius: 50%; background: #247bff; animation: pulse 2s infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
+    .preview-banner span { font-size: 13px; color: #7b8ca8; }
+    .section { margin-bottom: 24px; }
+    .section img {
+      width: 100%;
+      border-radius: 12px;
+      display: block;
+    }
+    .badges {
+      text-align: center;
+      margin: 24px 0;
+      display: flex;
+      justify-content: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    .badges a {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 20px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 13px;
+      font-weight: 600;
+      color: #fff;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .badges a:hover { transform: translateY(-2px); box-shadow: 0 4px 16px rgba(0,0,0,0.4); }
+    .badge-github { background: #181717; border: 1px solid #30363d; }
+    .badge-linkedin { background: #0a66c2; }
+    .badge-instagram { background: #e4405f; }
+    .badge-portfolio { background: #247bff; }
+    hr {
+      border: none;
+      border-top: 1px solid #21262d;
+      margin: 32px 0;
+    }
+    h2 {
+      font-size: 22px;
+      color: #e8ecf1;
+      margin-bottom: 20px;
+    }
+    .project-card {
+      background: #161b22;
+      border: 1px solid #21262d;
+      border-radius: 12px;
+      padding: 24px;
+      margin-bottom: 16px;
+      transition: border-color 0.3s;
+    }
+    .project-card:hover { border-color: #247bff; }
+    .project-card h3 {
+      font-size: 18px;
+      color: #e8ecf1;
+      margin-bottom: 8px;
+    }
+    .project-card p {
+      font-size: 14px;
+      color: #8b949e;
+      margin-bottom: 12px;
+    }
+    .project-card .tech {
+      font-size: 12px;
+      color: #7b8ca8;
+      margin-bottom: 12px;
+    }
+    .project-card .tech strong { color: #c8d1de; }
+    .project-card a {
+      color: #247bff;
+      text-decoration: none;
+      font-size: 13px;
+      font-weight: 500;
+    }
+    .project-card a:hover { text-decoration: underline; }
+    .footer {
+      text-align: center;
+      padding: 32px 0;
+      font-size: 12px;
+      color: #484f58;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="preview-banner">
+      <div class="dot"></div>
+      <span>LOCAL PREVIEW — Live Offline Profile Rendering</span>
+    </div>
+
+    <div class="section">
+      <img src="./assets/hero.svg?v=5" alt="Hero" />
+    </div>
+    <div class="section">
+      <img src="./assets/about-life.svg?v=5" alt="About" />
+    </div>
+    <div class="section">
+      <img src="./assets/stack.svg?v=5" alt="Stack" />
+    </div>
+    <div class="section">
+      <img src="./assets/id-dashboard.svg?v=5" alt="Developer ID" />
+    </div>
+    <div class="section">
+      <img src="./assets/connect.svg?v=5" alt="Connect" />
+    </div>
+
+    <div class="badges">
+      <a href="https://github.com/AdityaPrasadSwain" class="badge-github" target="_blank">GitHub</a>
+      <a href="https://www.linkedin.com/in/adityaprasadswain" class="badge-linkedin" target="_blank">LinkedIn</a>
+      <a href="https://www.instagram.com/adityaswain45" class="badge-instagram" target="_blank">Instagram</a>
+      <a href="https://www.adityaprasadswain.arowva.com" class="badge-portfolio" target="_blank">Portfolio</a>
+    </div>
+
+    <hr />
+
+    <h2>🚀 Featured Projects</h2>
+
+    <div class="project-card">
+      <h3>🛍️ Udrakala – E-Commerce Platform</h3>
+      <p>A full-stack e-commerce and product management platform for Odia artisans and handloom products. Features an interactive React + Vite frontend (UdraKala) and a Java Spring Boot backend (OdishaHandLoomApplication).</p>
+      <div class="tech"><strong>Tech Stack:</strong> Java · Spring Boot · React · Vite · Tailwind CSS · JavaScript · SQL</div>
+      <a href="https://github.com/AdityaPrasadSwain/OdishaProduct" target="_blank">🔗 View Repository →</a>
+    </div>
+
+    <div class="project-card">
+      <h3>🎓 Learning Platform</h3>
+      <p>An online educational platform designed to facilitate interactive learning between students and teachers. Built with a React + Vite frontend and Java Spring Boot backend, featuring course management, real-time interactions, and video streaming.</p>
+      <div class="tech"><strong>Tech Stack:</strong> Java · Spring Boot · React · Vite · Tailwind CSS · JavaScript · Hibernate · Maven</div>
+      <a href="https://github.com/AdityaPrasadSwain/Learning-Platfrom" target="_blank">🔗 View Repository →</a>
+      &nbsp;·&nbsp;
+      <a href="https://learning-platfrom-dusky.vercel.app" target="_blank">Live Demo →</a>
+    </div>
+
+    <div class="project-card">
+      <h3>💼 Enterprise Expense Management System</h3>
+      <p>A comprehensive enterprise full-stack application built for structured tracking, workflow automation, and centralized data management with Spring Boot and React.</p>
+      <div class="tech"><strong>Tech Stack:</strong> Java · Spring Boot · Spring Data JPA · React · Vite · JavaScript · PostgreSQL</div>
+      <a href="https://github.com/AdityaPrasadSwain/Daily-Routine-Management-System" target="_blank">🔗 View Repository →</a>
+    </div>
+
+    <div class="footer">Crafted with precision by <strong>Aditya Prasad Swain</strong></div>
+  </div>
+</body>
+</html>
