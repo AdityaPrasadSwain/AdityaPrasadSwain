@@ -1,75 +1,29 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=1200&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Postgr[...]" />
+  <img src="./assets/hero.svg?v=5" alt="Hero — Aditya Prasad Swain" width="100%" />
 </p>
-
-<h1 align="center">👋 Hi, I'm Aditya Prasad Swain</h1>
-
-<h3 align="center">
-  Java Full-Stack Developer | Spring Boot | React | PostgreSQL
-</h3>
 
 <p align="center">
-  Building and learning full-stack web applications with a focus on Java, Spring Boot, REST APIs, React, and PostgreSQL.
+  <img src="./assets/about-life.svg?v=5" alt="About — Aditya Prasad Swain" width="100%" />
 </p>
 
----
+<p align="center">
+  <img src="./assets/stack.svg?v=5" alt="Technology Stack" width="100%" />
+</p>
 
-## 👨‍💻 About Me
+<p align="center">
+  <img src="./assets/id-dashboard.svg?v=5" alt="Developer ID — Aditya Prasad Swain" width="100%" />
+</p>
 
-I'm **Aditya Prasad Swain**, an aspiring **Java Full-Stack Developer** with a strong interest in building reliable, scalable, and user-focused web applications.
+<p align="center">
+  <img src="./assets/connect.svg?v=5" alt="Connect — Aditya Prasad Swain" width="100%" />
+</p>
 
-My primary focus is **backend development with Java and Spring Boot**, while also working with **React** to build modern frontend applications. I enjoy turning ideas into practical projects, desig[...]
-
-- ☕ Building applications with **Java, Spring Boot & Spring Data JPA**
-- ⚛️ Developing modern user interfaces with **React & Vite**
-- 🔌 Designing and integrating **RESTful APIs**
-- 🗄️ Working with **PostgreSQL** and relational database concepts
-- 🔐 Learning **Spring Security, JWT & Role-Based Access Control**
-- 🧠 Strengthening problem-solving through **DSA with Java**
-- 🏗️ Exploring **System Design, Clean Architecture & Backend Best Practices**
-- 🚀 Building real-world projects to improve my development experience
-- 🤝 Interested in learning, collaboration, and open-source development
-- 💼 Open to **Java Developer, Backend Developer, Full-Stack Developer, Internship & Entry-Level opportunities**
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-
-### ⚙️ Frameworks & Libraries
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔧 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 💻 IDEs
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+<p align="center">
+  <a href="https://github.com/AdityaPrasadSwain"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/adityaprasadswain"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/adityaswain45"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="https://www.adityaprasadswain.arowva.com"><img src="https://img.shields.io/badge/Portfolio-247BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 ---
 
@@ -77,145 +31,34 @@ My primary focus is **backend development with Java and Spring Boot**, while als
 
 ### 🛍️ Udrakala – E-Commerce Platform
 
-An e-commerce application focused on product management, sellers, orders, inventory, and secure APIs.
+A full-stack e-commerce and product management platform for Odia artisans and handloom products. Features an interactive **React + Vite** frontend (**UdraKala**) and a **Java Spring Boot** backend (**OdishaHandLoomApplication**).
 
-**Key Features:**
-- Product & category management
-- Seller management
-- Inventory management
-- Order management
-- Role-based access
-- Secure REST APIs
+**Tech Stack:** Java · Spring Boot · React · Vite · Tailwind CSS · JavaScript · SQL
 
-**Tech Stack:**  
-`Java` `Spring Boot` `Spring Security` `PostgreSQL`
-
-**Repository:**  
-[View Udrakala on GitHub](https://github.com/AdityaPrasadSwain/OdishaProduct)
+🔗 [View Repository](https://github.com/AdityaPrasadSwain/OdishaProduct)
 
 ---
 
 ### 🎓 Learning Platform
 
-A Learning Management System for creating courses, managing educational content, and tracking student progress.
+An online educational platform designed to facilitate interactive learning between students and teachers. Built with a **React + Vite** frontend and **Java Spring Boot** backend, featuring course management, real-time interactions, and video streaming.
 
-**Key Features:**
-- Student, Instructor & Admin roles
-- Course management
-- Video & notes management
-- Student enrolment
-- Progress tracking
-- Quizzes
-- REST APIs
+**Tech Stack:** Java · Spring Boot · React · Vite · Tailwind CSS · JavaScript · Hibernate · Maven
 
-**Tech Stack:**  
-`Java` `Spring Boot` `Spring Data JPA` `PostgreSQL` `JWT`
-
-**Repository:**  
-[View Learning Platform on GitHub](https://github.com/AdityaPrasadSwain/Learning-Platfrom)
+🔗 [View Repository](https://github.com/AdityaPrasadSwain/Learning-Platfrom) · [Live Demo](https://learning-platfrom-dusky.vercel.app)
 
 ---
 
-### 💸 Enterprise Expense Management System
+### 💼 Enterprise Expense Management System
 
-An application for managing employee expenses, approval workflows, and reporting.
+A comprehensive enterprise full-stack application built for structured tracking, workflow automation, and centralized data management with Spring Boot and React.
 
-**Key Features:**
-- Employee, Manager & Finance roles
-- Expense submission
-- Approval workflow
-- JWT authentication
-- REST APIs
-- Reporting
+**Tech Stack:** Java · Spring Boot · Spring Data JPA · React · Vite · JavaScript · PostgreSQL
 
-**Tech Stack:**  
-`Java` `Spring Boot` `PostgreSQL` `JWT`
-
-**Repository:**  
-[View Expense Management System on GitHub](https://github.com/Pallabis52/Enterprise-Expense-Management-System)
-
----
-
-### 📅 Daily Routine Management System
-
-A productivity application for managing daily tasks and routines.
-
-**Key Features:**
-- Task creation
-- Task scheduling
-- Recurring routines
-- Progress tracking
-- REST APIs
-
-**Tech Stack:**  
-`Java` `Spring Boot` `REST APIs`
-
-**Repository:**  
-[View Daily Routine Management System on GitHub](https://github.com/AdityaPrasadSwain/Daily-Routine-Management-System)
-
----
-
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
-
-## 🎯 Current Focus
-
-- 📚 Data Structures & Algorithms with Java
-- ☕ Java & Spring Boot
-- ⚛️ React Development
-- 🔐 Spring Security
-- 🔌 REST API Development
-- 🗄️ PostgreSQL
-- 🏗️ System Design Basics
-- 🚀 Building real-world projects
-
----
-
-## 💼 Open to Opportunities
-
-I'm currently looking for opportunities where I can apply my skills, work on real-world software projects, and continue growing as a developer.
-
-**Interested Roles:**
-
-- Java Developer
-- Spring Boot Developer
-- Backend Developer
-- Full-Stack Developer
-- Software Developer
-- Software Engineer Intern
-- Entry-Level Developer
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/adityaprasadswain">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Prasad%20Swain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="mailto:swainaditya921@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
-  <a href="https://github.com/AdityaPrasadSwain">
-    <img src="https://img.shields.io/badge/GitHub-AdityaPrasadSwain-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <a href="https://leetcode.com/AdityaPrasadSwain">
-    <img src="https://img.shields.io/badge/LeetCode-AdityaPrasadSwain-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-
-  <a href="https://adityaprasadswain.com](https://portfolio-neon-pi-42.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-
-</p>
+🔗 [View Repository](https://github.com/AdityaPrasadSwain/Daily-Routine-Management-System)
 
 ---
 
 <p align="center">
-  <b>Keep Learning • Keep Building • Keep Improving 🚀</b>
+  <sub>Crafted with precision by <strong>Aditya Prasad Swain</strong></sub>
 </p>
